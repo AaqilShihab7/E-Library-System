@@ -9,7 +9,10 @@ the member you can enter username as aakil and password as 123 and u can get boo
 Admin have login page and if you are the admin ypo can enter the username as admin password as admin and you can get members  and add books
 link.In the member link you can get the All members list and in the add book link you can add books in this page.
 
-Next finaly view books details, all user can view to what are the books are availabler in the e_library
+Next  view books details, all user can view to what are the books are availabler in the e_library
+
+Finally you can add the library_db database in your localhost (database available here).
+
 
 
 Thank you
